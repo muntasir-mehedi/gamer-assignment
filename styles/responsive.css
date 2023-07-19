@@ -23,5 +23,35 @@
     .banner img {
         padding: 10px 50px;
     }
-    /* header end */
+    /* main styles */
+    main {
+        margin: 10px;
+    }
+    .card-img {
+        flex-direction: column;
+        padding-left: 38px;
+    }
+    /* play styles */
+    .play-container {
+        flex-direction: column;
+    }
+    .play-content {
+        text-align: center;
+        margin: 10px;
+        padding: 20px;
+    }
+    .play-img img {
+        width: 80%;
+        margin-left: 75px;
+    }
+    #img-two {
+        height: 200px;
+        width: 140px;
+        position: relative;
+        bottom: 180px;
+        left: 10px;
+        margin: 0;
+    }
+
+    
 }

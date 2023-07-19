@@ -1,0 +1,27 @@
+@media screen and (max-width: 576px) {
+    .nav-container {
+        flex-direction: column;
+    }
+    .logo-container {
+        padding: 0;
+    }
+    .items-container{
+        flex-direction: column;
+        padding: 0;
+    }
+    .header {
+        padding: 20px;
+    }
+    .banner-container {
+        flex-direction: column;
+        flex-direction: column-reverse;
+    }
+    .text {
+        padding-left: 38px;
+        margin: 10px;
+    }
+    .banner img {
+        padding: 10px 50px;
+    }
+    /* header end */
+}
